@@ -1,2 +1,2 @@
-# randomquote
+# RandomQuote
 This generates random inspirational quotes
