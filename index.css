@@ -1,0 +1,46 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.parent {
+
+    height: 100vh;
+    width:100vw;
+  }
+
+  
+  .child {
+    text-align: center;
+    margin:auto;
+    width:100vw;
+  }
+
+  .child h1{
+      padding-top:20vh;
+      font-size: 64px;
+  }
+#quote{
+      width:60vw;
+      margin:auto;
+      padding-top:64px;
+      font-size:28px;
+      padding-bottom:86px;
+
+  }
+
+
+  button{
+      padding:18px 64px;
+      border:none;
+    border-radius: 8px;
+    color:white;
+    font-size:16px;
+    background-color: #121212;
+
+  }
+
+  button:hover{
+      background-color: #363636;
+      box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+
+  }
